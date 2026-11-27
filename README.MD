@@ -71,7 +71,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 [Kotlin Multiplatform plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform) IntelliJ IDEA / Android Studio plugin
 > This plugin for IntelliJ IDEA and Android Studio enables you to develop Kotlin Multiplatform applications targeting Android, iOS, desktop, web, and server.
-start##fyinformationpointcc##end
+start##kredivoguidepointcom##end
 [CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
